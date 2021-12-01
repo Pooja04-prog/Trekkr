@@ -1,2 +1,1 @@
-# Trekkr
-Beginner Phase
+TinDog Starting Files
